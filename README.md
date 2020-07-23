@@ -20,7 +20,7 @@ The courses enlisted in this specialization are as follows:
 
 1. What is Data Science
 
-2. Open Source tools for Data Science_
+2. Tools for Data Science
 
 3. Data Science Methodology
 
