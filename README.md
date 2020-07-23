@@ -1,4 +1,4 @@
-IBM: Data Science Professional Certification
+# IBM: Data Science Professional Certification
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
 
@@ -10,7 +10,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn
 
 IBM INSTRUCTORS
 
-Instructors: Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI 
+**Instructors: *Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI 
 
 This repository contains all the resources and solution of the final assignments given and asked in each 9 courses of the professional certification. I'm currently working on this certification. I will continue to update the resources and solution as I progress in this certification.
 
@@ -18,7 +18,7 @@ Specialization Course Link: [https://www.coursera.org/professional-certificates/
 
 The courses enlisted in this specialization are as follows:
 
-1. [x] __What is Data Science__
+1. What is Data Science
 
 2. Open Source tools for Data Science
 
