@@ -18,9 +18,9 @@ Specialization Course Link: [https://www.coursera.org/professional-certificates/
 
 The courses enlisted in this specialization are as follows:
 
-1. What is Data Science
+1. [] What is Data Science
 
-2. Open Source tools for Data Science
+_ [] Open Source tools for Data Science
 
 3. Data Science Methodology
 
