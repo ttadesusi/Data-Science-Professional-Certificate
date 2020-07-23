@@ -4,9 +4,9 @@
 
 This will help me to kickstart my Career in Data Science. At the end of this specialization, I am expected to acquire knowledge and skills in Python & SQL and able to analyze & visualize data, and build machine learning models.
 
-Tools: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Git / Github, and Watson Studio
+**Tools:** *Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Git / Github, and Watson Studio*
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+**Libraries:** *Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy.*
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) **INSTRUCTORS**
 
