@@ -7,6 +7,7 @@ Smiley face
 IBM INSTRUCTORS
 
 Instructors: Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI 
+
 This repository contains all the resources and solution of the quizzes given and asked in IBM Data Science Professional Certification. Currently I'm also working on this certification. I keep on updating the resources and solution as I proceed further in this certification.
 
 Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
