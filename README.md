@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
 
-This will help me to kickstart my Career in Data Science. At the end of this specialization, i am expected to acquire knowledge and skills in Python & SQL, able to analyze & visualize data, and build machine learning models.
+This will help me to kickstart my Career in Data Science. At the end of this specialization, I am expected to acquire knowledge and skills in Python & SQL and able to analyze & visualize data, and build machine learning models.
 
 Tools: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Git / Github, and Watson Studio
 
@@ -10,7 +10,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn
 
 IBM INSTRUCTORS
 
-**Instructors: *Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI 
+**Instructors: *Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI*** 
 
 This repository contains all the resources and solution of the final assignments given and asked in each 9 courses of the professional certification. I'm currently working on this certification. I will continue to update the resources and solution as I progress in this certification.
 
