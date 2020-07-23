@@ -8,9 +8,9 @@ Tools: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Git / Github, and Wat
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-IBM INSTRUCTORS
+![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 
-**Instructors: *Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI*** 
+**Instructors:* *Alex Aklson, Polong Lin, Romeo Kienzler, Svetlana Levitan, Joseph Santarcangelo, Rav Ahuja, SAEED AGHABOZORGI**
 
 This repository contains all the resources and solution of the final assignments given and asked in each 9 courses of the professional certification. I'm currently working on this certification. I will continue to update the resources and solution as I progress in this certification.
 
