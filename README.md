@@ -6,7 +6,7 @@ This will help me to kickstart my Career in Data Science. At the end of this spe
 
 Tools: Jupyter / JupyterLab, Zeppelin notebooks, R Studio, Git / Github, and Watson Studio
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy.
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) **INSTRUCTORS**
 
