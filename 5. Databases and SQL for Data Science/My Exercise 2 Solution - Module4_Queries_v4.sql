@@ -85,7 +85,7 @@ GROUP BY dept_id
 HAVING COUNT(dept_id) < 4
 ORDER BY avg_salary;
     
--- Bonus Query 6: Similar to 4B but instead of department ID use department name. 
+-- Bonus Query 6A: Similar to 4B but instead of department ID use department name. 
 SELECT 
     f_name, l_name, dept_name
 FROM
@@ -93,3 +93,42 @@ FROM
         JOIN
     departments ON employees.dept_id = departments.dept_id
 ORDER BY dept_name , l_name DESC;
+
+-- Bonus Query 6B: retrieve all employees filtering with department name instead of department id. 
+-- Query 6B can be written by using subquerries as: --
+SELECT 
+    f_name, l_name, dept_id
+FROM
+    employees
+WHERE
+    dept_id IN (SELECT 
+            dept_id
+        FROM
+            departments
+        WHERE
+            dept_name LIKE '%Software%'
+                OR dept_name LIKE '%design%')
+ORDER BY dept_id DESC;
+
+-- Query 6B can also be written using implicit join as: --
+SELECT 
+    f_name, l_name, e.dept_id, dept_name
+FROM
+    employees e,
+    departments d
+WHERE
+    e.dept_id = d.dept_id
+        AND dept_name IN ('software group' , 'design team')
+ORDER BY dept_name;
+
+	-- Query 6B can also be written using JOIN operator as: --
+SELECT 
+    f_name, l_name, employees.dept_id, dept_name
+FROM
+    employees
+        JOIN
+    departments ON employees.dept_id = departments.dept_id
+WHERE
+    dept_name LIKE '%software%'
+        OR dept_name LIKE '%design%'
+ORDER BY dept_name;
