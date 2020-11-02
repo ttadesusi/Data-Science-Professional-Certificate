@@ -21,7 +21,7 @@ WHERE
 -- Query 3: retrieve all employees in department 5 whose salary is betweeen 60000 and 70000 --
 SELECT 
     f_name, l_name, dept_id, salary
-FROMinstructor
+FROM instructor
     employees
 WHERE
     salary BETWEEN 60000 AND 70000
